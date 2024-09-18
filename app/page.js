@@ -12,6 +12,7 @@ import { faqData } from "@components/FAQ/FAQ-Data";
 const Home = () => {
   return (
     <main className="mt-4 md:mt-4 w-full max-w-[1273px] max-md:mt-4 max-md:max-w-full">
+      <meta name="google-site-verification" content="jaPqIV9KYumZmq-VacARC-4CnV9iniGSC1cW9Ix-t4A" />
       <div className="flex gap-5 max-md:flex-col">
         <section className="flex flex-col w-[50%] max-md:ml-0 max-md:w-full">
           <HeroSection />
